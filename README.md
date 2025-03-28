@@ -41,3 +41,14 @@ Feel free to reach out to me for any questions or collaborations.
 ### Connect with me:
 - GitHub: [@Yousif](https://github.com/Yousif)
 - Telegram: [@Yousif](https://t.me/Yousif)
+
+## Copyright & Open Source Rights
+© 2025 Yousif. All rights reserved.
+
+This project is open source and available under the MIT License. You are free to:
+- Use this code for personal or commercial projects
+- Modify and distribute the code
+- Use it privately
+- Sublicense it
+
+The only requirement is that you include the original copyright and license notice in any copy of the software/source.
