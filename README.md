@@ -17,7 +17,7 @@ A modern, responsive portfolio website showcasing my projects, skills, and profe
 ## Getting Started
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Yousif-69/portfolio.git
 ```
 
 2. Install dependencies
